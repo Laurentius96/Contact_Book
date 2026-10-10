@@ -1,12 +1,12 @@
 [
   {
-    "name": "Teste01",
+    "name": "Test01",
     "phone": "9999999",
-    "email": "teste@teste.com"
+    "email": "test01@example.com"
   },
   {
-    "name": "Teste2",
+    "name": "Test02",
     "phone": "88888888",
-    "email": "teste02@teste.com"
+    "email": "test02@example.com"
   }
 ]
