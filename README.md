@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="#-overview">Overview</a> •
-  <a href="#-features">Features</a> •
+  <a href="#%EF%B8%8F-features">Features</a> •
   <a href="#-technologies-used">Technologies</a> •
   <a href="#-project-structure">Project Structure</a> •
   <a href="#-how-to-run">How to Run</a> •
